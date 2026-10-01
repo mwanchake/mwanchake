@@ -1,6 +1,16 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=200&section=header&text=Mwancha&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+
+</div>
+<div align="center">
+
 # Hi, I'm Mwancha
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Software+Developer;Full-Stack+Developer;Backend+Engineer;Java+%7C+Python+%7C+JavaScript;Spring+Boot+%7C+Django" />
+
+</div>
 
 ###• Full-Stack Developer •
 
