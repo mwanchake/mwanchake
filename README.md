@@ -2,7 +2,7 @@
 
 # Hi, I'm Mwancha
 
-### Software Developer • Full-Stack Developer • Digital Product Builder
+###• Full-Stack Developer •
 
 I design and build modern software solutions with a focus on
 **web applications, scalable systems, automation, and user-focused products.**
