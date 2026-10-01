@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:7C3AED&height=230&section=header&text=DEVMWANCHA&fontSize=72&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=750&lines=Software+Developer;Full-Stack+Developer;Backend+Engineer;Java+%7C+Python+%7C+JavaScript;Spring+Boot+%7C+Django" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=750&lines=Software+Developer;Full-Stack+Developer;Backend+Engineer;Problem+Solver;Build+Better+Systems" />
 
 <br><br>
 
@@ -15,23 +15,23 @@
 <h2 align="center">⚡ SOFTWARE DEVELOPER</h2>
 
 <p align="center">
-Building modern software, scalable backend systems and practical digital products.
+Building modern software, scalable backend systems, and practical digital products that solve real problems.
 </p>
 
 <br>
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-0F172A?style=for-the-badge\&logo=openjdk\&logoColor=ED8B00)
-![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge\&logo=python\&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge\&logo=html5\&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge\&logo=css3\&logoColor=1572B6)
+![Java](https://img.shields.io/badge/Java-0F172A?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![Python](https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=1572B6)
 
 <br>
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-0F172A?style=for-the-badge\&logo=springboot\&logoColor=6DB33F)
-![Django](https://img.shields.io/badge/Django-0F172A?style=for-the-badge\&logo=django\&logoColor=44B78B)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-0F172A?style=for-the-badge&logo=springboot&logoColor=6DB33F)
+![Django](https://img.shields.io/badge/Django-0F172A?style=for-the-badge&logo=django&logoColor=44B78B)
 
 </div>
 
@@ -39,9 +39,11 @@ Building modern software, scalable backend systems and practical digital product
 
 ## 👨‍💻 About Me
 
-I'm a **Software Developer** focused on designing and building reliable software systems and modern digital products.
+I'm a Software Developer focused on designing reliable software systems, building practical digital products, and creating efficient backend experiences.
 
-My development work covers both **frontend experiences and backend architecture**, with a particular focus on Java, Python and JavaScript ecosystems.
+My work spans both frontend and backend development, with a strong emphasis on Java, Python, and JavaScript ecosystems.
+
+I enjoy turning ideas into working products, improving system performance, and building tools that make work smoother and smarter.
 
 ```text
 ┌───────────────────────────────────────────────┐
@@ -51,6 +53,7 @@ My development work covers both **frontend experiences and backend architecture*
 │   DATABASES      → Data-Driven Systems        │
 │   ARCHITECTURE   → Scalable Solutions         │
 │   AUTOMATION     → Smarter Workflows          │
+│   LEARNING       → Modern Technologies        │
 │                                               │
 └───────────────────────────────────────────────┘
 ```
@@ -87,27 +90,42 @@ My development work covers both **frontend experiences and backend architecture*
 
 ### 🛒 CampusMarket
 
-**A modern digital marketplace for buying and selling products.**
+A modern digital marketplace for buying and selling products with a user-focused experience.
 
 `Web Development` `Authentication` `Database` `User Management`
+
+[📦 Repo](https://github.com/mwanchake) • [🌐 Demo](https://github.com/mwanchake)
 
 ---
 
 ### 📊 Attendix
 
-**A modern attendance management system built around multiple verification methods and intelligent attendance analysis.**
+A modern attendance management system built around multi-layer verification and intelligent attendance analysis.
 
 `System Design` `Authentication` `QR` `Location` `Data Analysis`
+
+[📦 Repo](https://github.com/mwanchake) • [🌐 Demo](https://github.com/mwanchake)
 
 ---
 
 ### 🎮 Aviator Simulator
 
-**An interactive game simulator featuring real-time game mechanics, betting simulation and wallet functionality.**
+An interactive game simulator featuring real-time mechanics, betting simulation, and wallet functionality.
 
 `JavaScript` `Backend` `APIs` `Real-Time Systems`
 
+[📦 Repo](https://github.com/mwanchake) • [🌐 Demo](https://github.com/mwanchake)
+
 </div>
+
+---
+
+## 📌 Current Focus
+
+- Building scalable backend systems and clean API architecture
+- Improving product development workflows and user experiences
+- Exploring modern web development practices and smarter automation
+- Learning and applying practical solutions in software engineering
 
 ---
 
@@ -239,6 +257,12 @@ Automation & AI-powered Solutions
 </a>
 
 </div>
+
+<br>
+
+<p align="center">
+Open to software engineering opportunities, collaboration, and building meaningful digital products.
+</p>
 
 <br>
 
